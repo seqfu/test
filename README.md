@@ -24,3 +24,5 @@ yet another dev change
 yet another master change
 
 bugfix
+
+bugfix with issue ref
