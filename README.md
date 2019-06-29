@@ -26,3 +26,5 @@ yet another master change
 bugfix
 
 bugfix with issue ref
+
+bugfix with proper issue ref
