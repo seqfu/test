@@ -32,3 +32,5 @@ bugfix with proper issue ref
 bugfix with automatic fix
 
 bugfix with automatic fix "closes"
+
+bugfix with proper automatic fix "resolves"
