@@ -28,3 +28,5 @@ bugfix
 bugfix with issue ref
 
 bugfix with proper issue ref
+
+bugfix with automatic fix
